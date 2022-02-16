@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "vite --open",
+    "dev": "vite --open",
+    "build": "vite build",
+    "deploy": "vite build --base=/tgi-pages/ && node utils/publish.js",
+    "preview": "vite build && vite preview"
+  },
+}
