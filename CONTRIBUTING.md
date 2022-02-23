@@ -31,7 +31,7 @@ I recommend using [Visual Studio Code](https://code.visualstudio.com/) with
 The most important ones are
 
 - [Typescript](https://www.typescriptlang.org/) - Typesafe Javascript
-- [Vue 3](https://github.com/vuejs/vue-next/) - Vue 3 with [the composition API](https://vue-composition-api-rfc.netlify.app/api.html)
+- [Vue 3](https://github.com/vuejs/vue-next/) - Vue 3 with [the composition API](https://vuejs.org/guide/extras/composition-api-faq.html#what-is-composition-api)
 
 We are also using
 
