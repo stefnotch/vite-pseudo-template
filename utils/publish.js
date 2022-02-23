@@ -1,5 +1,5 @@
 /*
- * Make sure to `npm install gh-pags`
+ * Make sure to `npm install -D gh-pages`
  *
  * Then add the following to your package.json. You'll have to change the build part though.
  * "deploy": "vite build --base=/tgi-pages/ && node utils/publish.js"
