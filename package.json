@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "vite --open",
+    "start": "vite",
     "dev": "vite --open",
     "build": "vue-tsc --noEmit && vite build",
     "deploy": "vue-tsc --noEmit && vite build --base=/tgi-pages/ && node utils/publish.js",
