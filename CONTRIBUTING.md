@@ -31,6 +31,8 @@ I recommend using [Visual Studio Code](https://code.visualstudio.com/) with
 - [(optional - project specific)Eslint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) to automatically show lots of little warnings
 - [(optional - project specific)i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally) for translating and internationalizing code
 
+As for settings, I personally am a fan of those "inlay hints".
+
 I also totally recommend using a decent browser such as Firefox or a Chromium browser with
 
 - [Vue Devtools](https://devtools.vuejs.org/) to get top-notch debugging support
