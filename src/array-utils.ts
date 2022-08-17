@@ -1,5 +1,3 @@
-// Source: https://github.com/stefnotch/quantum-sheet/blob/master/src/model/array-utils.ts
-
 export default {
   /**
    * Finds the position where a new element should be inserted
