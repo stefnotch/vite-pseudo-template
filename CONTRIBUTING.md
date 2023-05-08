@@ -1,22 +1,24 @@
 # Contributing Guide
 
-Welcome, interested person! Contributions are welcome. If you're ever unsure, feel free to open an issue.
+Welcome! Contributions are very welcomed. If you ever feel unsure, please do open an issue.
 
-Preferably, features are developed in another branch or fork. After the feature is ready, a pull request to the master branch should be opened.
+Preferably, features are developed in another branch or fork. After the feature is ready, a pull request to the main branch should be opened.
 
-## Prerequisites
+## Tooling
+
+### Prerequisites
 
 - [Node 16 or greater](https://nodejs.org/en/). Don't install Chocolatey.
 - A code editor (see below)
 
-## Setup
+### Setup
 
 1. Fork the repository
 2. Clone your fork
 3. `npm install`
 4. `npm run dev`
 
-## Recommended Tooling
+### Recommended Tooling
 
 I recommend using [Visual Studio Code](https://code.visualstudio.com/) with
 
@@ -36,7 +38,7 @@ I also totally recommend using a decent browser such as Firefox or a Chromium br
 
 - [Vue Devtools](https://devtools.vuejs.org/) to get top-notch debugging support
 
-## Used Libraries
+### Used Libraries
 
 The most important ones are
 
